@@ -8,7 +8,7 @@ This script will convert tables from any "Update X named items" titled DDOWiki p
 
 -u
 
-For setting the page URL
+For setting the page URL.
 
 Example:
     -u https://ddowiki.com/page/Update_48_named_items
