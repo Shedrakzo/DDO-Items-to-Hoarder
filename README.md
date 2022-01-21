@@ -3,6 +3,7 @@ Some Python scripts to transfer online DDO item data to The Hoarder.
 
 # DDOWikiItems.py
 (Uses a table scraping tutorial as a base)
+
 This script will convert tables from any "Update X named items" titled DDOWiki page into a CSV file. Best results if there's only one table on the page, and follows the "Item, Type, Enhancements, ML, Bind, Quests" convention.
 
 -u
